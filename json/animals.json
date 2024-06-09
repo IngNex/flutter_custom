@@ -1,0 +1,45 @@
+[
+{
+    "name": "Coco",
+    "sex": "female",
+    "age": "Young",
+    "race": "Border collie",
+    "image": "assets/animals/border_collie.jpg"
+},
+{
+    "name": "Milo",
+    "sex": "male",
+    "age": "Adult",
+    "race": "Samoyed",
+    "image": "assets/animals/samoyed.jpg"
+},
+{
+    "name": "Chloe",
+    "sex": "female",
+    "age": "Adult",
+    "race": "Mix breed",
+    "image": "assets/animals/mixbreed.jpg"
+},
+{
+    "name": "Leo",
+    "sex": "male",
+    "age": "Puppy",
+    "race": "Pomeranian",
+    "image": "assets/animals/pomeranian.jpg"
+},
+{
+    "name": "Bobys",
+    "sex": "male",
+    "age": "Young",
+    "race": "Husky Siberiano",
+    "image": "assets/animals/huskysiberiano.jpg"
+},
+{
+    "name": "Gordis",
+    "sex": "female",
+    "age": "Puppoy",
+    "race": "Corgi",
+    "image": "assets/animals/corgi.jpg"
+}
+    
+]

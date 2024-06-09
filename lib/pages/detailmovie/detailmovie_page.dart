@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+class DetailMoviePage extends StatelessWidget {
+  const DetailMoviePage({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
                 decoration: const BoxDecoration(
                   image: DecorationImage(
                     fit: BoxFit.cover,
-                    image: AssetImage("assets/wolverine_deadpool.jpg"),
+                    image: AssetImage("assets/movie/wolverine_deadpool.jpg"),
                   ),
                 ),
               ),
@@ -158,7 +158,8 @@ class HomePage extends StatelessWidget {
                       borderRadius: BorderRadius.circular(15),
                       image: const DecorationImage(
                         fit: BoxFit.cover,
-                        image: AssetImage("assets/deadpool_wolverine.jpg"),
+                        image:
+                            AssetImage("assets/movie/deadpool_wolverine.jpg"),
                       ),
                     ),
                   ),
